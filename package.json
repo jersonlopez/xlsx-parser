@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jersonlopez/import-league.git"
+    "url": "git+https://github.com/jersonlopez/xlsx-parser.git"
   },
   "author": "jersonlopez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jersonlopez/import-league/issues"
+    "url": "https://github.com/jersonlopez/xlsx-parser/issues"
   },
-  "homepage": "https://github.com/jersonlopez/import-league#readme",
+  "homepage": "https://github.com/jersonlopez/xlsx-parser#readme",
   "dependencies": {
     "bull": "^4.10.4",
     "dotenv": "^16.0.3",
